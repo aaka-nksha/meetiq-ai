@@ -1,0 +1,15 @@
+# Environment variables (NEVER commit this)
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Uploaded files and generated data
+uploads/
+meetings_db/
+
+# OS files
+.DS_Store
+Thumbs.db
